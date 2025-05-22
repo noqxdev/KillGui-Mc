@@ -1,7 +1,0 @@
-name: menu-api
-version: '1.0-SNAPSHOT'
-main: noqx.menuapi.menuApi.MenuApi
-api-version: '1.21'
-
-commands:
-  killgui:
