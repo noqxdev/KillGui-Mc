@@ -9,4 +9,5 @@
 /dataSources/
 /dataSources.local.xml
 # build folder
-/test/g
+/test/
+/target/
