@@ -16,7 +16,7 @@ public abstract class SimpleMenu implements Menu {
     private final Inventory inventory;
 
     public SimpleMenu(Rows rows, String title) {
-        this.inventory = Bukkit.createInventory(this, rows.getSize());
+        this.inventory = Bukkit.createInventory(this, rows.getSize(), title);
     }
 
     @Override

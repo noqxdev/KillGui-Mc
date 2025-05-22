@@ -7,8 +7,6 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 import net.kyori.adventure.text.Component;
 
-import java.awt.*;
-
 public class KillMenu extends SimpleMenu {
     public KillMenu() {
         super(Rows.THREE, "Kill Menu");
